@@ -8,7 +8,7 @@ int main()
 	cout <<"                                           " << endl;
 	cout <<"-------------------------------------------" << endl;
 	cout <<"                                           " << endl;
-	cout <<"Name:      darain naqvi                  " << endl;
+	cout <<"Name:       darain naqvi                   " << endl;
 	cout <<"                                           " << endl;
 	cout <<"Roll No:    2025-SET-41                    " << endl;
 	cout <<"                                           " << endl;
@@ -17,5 +17,6 @@ int main()
 	cout <<"Session:    2025-2029                      " << endl;
 	cout <<"                                           " << endl;
 	cout <<"-------------------------------------------" << endl;
-	return 0;
+	return 0;   
 }
+
