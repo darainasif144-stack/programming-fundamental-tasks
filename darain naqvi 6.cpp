@@ -2,39 +2,42 @@
 using namespace std;
 int main()
 {
-    cout <<"==========================================" <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"       STUDENT RESULT CARD                " <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"==========================================" <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"Name:         Ali Raza                    " <<endl;
-    cout <<"Roll NO:      1023                        " <<endl;
-    cout <<"Department:   Computer Science            " <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"------------------------------------------" <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"Subjects       Marks                      " <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"------------------------------------------" <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"English        85                         " <<endl;
-    cout <<"Math           90                         " <<endl;
-    cout <<"Physics        80                         " <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"------------------------------------------" <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"Total marks:   255/300                    " <<endl;
-    cout <<"Percentage:    85%                        " <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"==========================================" <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"Grade:          A+                        " <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"==========================================" <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"Congratulations Ali Raza!                 " <<endl;
-    cout <<"                                          " <<endl;
-    cout <<"==========================================" <<endl;
+    cout <<"==========================================\n";
+    cout <<"                                          \n";
+    cout <<"       STUDENT RESULT CARD\n";
+    cout <<"                                          \n";
+    cout <<"==========================================\n";
+    cout <<"                                          \n";
+    cout <<"Name:\t\tAli Raza\n";                   
+    cout <<"Roll NO:\t\t1023\n";                        
+    cout <<"Department:\tComputer Science\n";
+    cout <<"                                          \n";
+    cout <<"------------------------------------------\n";
+    cout <<"                                          \n";
+    cout <<"Subjects\t\tMarks\n";
+    cout <<"                                          \n";
+    cout <<"------------------------------------------\n";
+    cout <<"                                          \n";
+    cout <<"English\t\t85\n";
+    cout <<"Math\t\t90\n";
+    cout <<"Physics\t\t80\n";
+    cout <<"                                          \n";
+    cout <<"------------------------------------------\n";
+    cout <<"                                          \n";
+    cout <<"Total marks:\t255"/"300\n";                   
+    cout <<"Percentage:\t85"%\n";                       \n";
+    cout <<"                                          \n";
+    cout <<"==========================================\n";
+    cout <<"                                          \n";
+    cout <<"Grade:\t\tA+\n";                      
+    cout <<"                                          \n";
+    cout <<"==========================================\n";
+    cout <<"                                          \n";
+    cout <<"Congratulations Ali Raza"!\n";                 
+    cout <<"                                          \n";
+    cout <<"==========================================\n";
+    return 0;
+}
     
     
+
