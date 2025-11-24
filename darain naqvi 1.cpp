@@ -2,21 +2,22 @@
 using namespace std;
 int main()
 {
-	cout <<"-------------------------------------------" << endl;
-	cout <<"                                           " << endl;
-	cout <<"           Student ID Card                 " << endl;
-	cout <<"                                           " << endl;
-	cout <<"-------------------------------------------" << endl;
-	cout <<"                                           " << endl;
-	cout <<"Name:       darain naqvi                   " << endl;
-	cout <<"                                           " << endl;
-	cout <<"Roll No:    2025-SET-41                    " << endl;
-	cout <<"                                           " << endl;
-	cout <<"Department: Software Engineering           " << endl;
-	cout <<"                                           " << endl;
-	cout <<"Session:    2025-2029                      " << endl;
-	cout <<"                                           " << endl;
-	cout <<"-------------------------------------------" << endl;
+	cout <<"-------------------------------------------\n";
+	cout <<"                                           \n";
+	cout <<"\tStudent ID Card\n";
+	cout <<"                                           \n";
+	cout <<"-------------------------------------------\n";
+	cout <<"                                           \n";
+	cout <<"Name:\t\tdarain naqvi\n";
+	cout <<"                                           \n";
+	cout <<"Roll No:    2025-SET-41                    \n";
+	cout <<"                                           \n";
+	cout <<"Department:\tSoftware Engineering\n";          
+	cout <<"                                           \n";
+	cout <<"Session:\t2025-2029\n";                      
+	cout <<"                                           \n";
+	cout <<"-------------------------------------------\n\n";
 	return 0;   
 }
+
 
